@@ -8,7 +8,7 @@ const employee = {
   details: {
     department: "CHIEF OPERATING OFFICER",
     email: "abishekaruchamy6660@gmail.com",
-    phone: "9659606660636"
+    phone: "9659606660"
   },
   socials: [
     { name: "Twitter", url: "https://x.com/Abishekwj" },
