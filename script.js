@@ -3,7 +3,7 @@ const employee = {
   shortName: "ABISHEK",
   role: "CHIEF EXECUTIVE OFFICER",
   bio: "**ABISHEK , CHIEF OPERATING OFFICER,** is the driving force behind the organization's vision and long-term growth. With a passion for innovation, strong leadership, and a commitment to excellence, he has built the company on the values of integrity, trust, and continuous progress. His forward-thinking approach and dedication to empowering people continue to shape the organization's future, inspiring teams to create meaningful impact and deliver lasting value.",
-  image: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+  image: "AD-62005.png",
   quote: "Execute with purpose. Lead with discipline. Deliver with excellence.",
   details: {
     department: "CHIEF OPERATING OFFICER",
